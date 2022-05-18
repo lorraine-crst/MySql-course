@@ -9,3 +9,5 @@ peso FLOAT, /*São numeros racionais*/
 altura FLOAT,
 nacionalidade VARCHAR(30)
 );
+
+
